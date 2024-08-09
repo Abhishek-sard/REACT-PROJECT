@@ -16,6 +16,10 @@ const HeroSection=() =>{
                 </div>
                 <div className="shopping">
                     <p>Also Available On</p>
+
+                    <div className="brand-icons">
+                        <img src="" alt="" />  
+                    </div>
                 </div>
 
 
